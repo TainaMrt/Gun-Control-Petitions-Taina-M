@@ -1,0 +1,1 @@
+This is one of the first websites I made during my 10th grade coding class, where we were tasked with finding a topic we cared about and advocating for it in one way or another. We focused on refreshing our minds on how to make a website, and trying to make our code tidier. 
